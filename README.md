@@ -1,2 +1,2 @@
 # cursoMobileFirst
-Es Mi primer proyecto profesional.
+Es mi primer proyecto profesional.
