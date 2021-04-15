@@ -194,3 +194,41 @@ main {
     border-radius: 0 0 15px 0;
 
 }
+
+.currency-table--container .down {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+    background-image: url(./assets/iconos/trendig_down.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.currency-table--container .up{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+    background-image: url(./assets/iconos/trending-up.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.currency-date-table {
+    width: 190px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-orange);
+    border-radius: 8px;
+    
+}
+.currency-date-table p {
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+    font-weight: 300;
+    color: var(--warm-black);
+}
